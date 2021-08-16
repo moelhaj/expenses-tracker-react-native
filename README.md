@@ -1,9 +1,14 @@
 
 # Expenses Tracker
 
-A brief description of what this project does and who it's for
+Track your finances to know where your money is going.
 
 
+## Demo
+
+https://expo.dev/@moelhaj/expensya
+
+  
 ## Screenshot
 
 ![App Screenshot](https://github.com/moElhaj/expenses-tracker-react-native/blob/main/screenshots/homescreen.jpg)
